@@ -1,0 +1,27 @@
+{
+  // Atom One Dark theme — requires extension: akamud.vscode-theme-onedark
+  "workbench.colorTheme": "Atom One Dark",
+  // File icon theme — requires extension: PKief.material-icon-theme
+  "workbench.iconTheme": "material-icon-theme",
+
+  // Disable and hide all built-in AI features (chat, inline suggestions, toggle button)
+  "chat.disableAIFeatures": true,
+
+  // Hide extension recommendations
+  "extensions.ignoreRecommendations": true,
+  // Default tab size for all languages
+  "editor.tabSize": 4,
+
+  // Format file automatically on save using Prettier as the default formatter
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Hide the minimap on the right side of the editor
+  "editor.minimap.enabled": false,
+  // Hide the native menu bar (access via Alt key or Cmd+Shift+P)
+  "window.menuBarVisibility": "hidden",
+
+  // Move activity bar to the top with compact icon size
+  "workbench.activityBar.compact": true,
+  "workbench.activityBar.location": "top",
+}
