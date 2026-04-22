@@ -8,3 +8,6 @@ code --install-extension esbenp.prettier-vscode
 
 # Material Icon Theme — file icon theme
 code --install-extension PKief.material-icon-theme
+
+# Terraform
+code --install-extension hashicorp.terraform
